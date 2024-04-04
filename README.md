@@ -1,2 +1,3 @@
 # lauren-will-blog.github.io
-Blog on creative project management best practices, learnings, and thought leadership.
+Blog on creative operations and project management. 
+Best practices, learnings, and thought leadership.
